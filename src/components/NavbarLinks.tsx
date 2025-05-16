@@ -9,7 +9,7 @@ import React from 'react'
 const NavbarLinks = () => {
     const links =[
     {href: '/', label: 'Dashboard'},
-    {href: '/tickets', label: 'Tickets'},
+    {href: '/weapons', label: 'Weapons'},
     {href: '/users', label: 'Users'}
    
 ]
